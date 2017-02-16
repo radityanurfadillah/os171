@@ -20,3 +20,4 @@ drwxr-xr-x  2 raditya.nurfadillah StafCS 4096 Feb 16 14:11 week09
 drwxr-xr-x  2 raditya.nurfadillah StafCS 4096 Feb 16 14:11 week10
 drwxr-xr-x  2 raditya.nurfadillah StafCS 4096 Feb 16 14:13 xtra
 /home/fasilkom/mahasiswa/r/raditya.nurfadillah/os171/week01
+Today is 16 Feb 2017 at 21:34:09
