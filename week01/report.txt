@@ -1,0 +1,1 @@
+Pada week01, mahasiswa diajarkan dasar-dasar untuk menggunakan PuTTY dan menghubungkannya dengan akun GitHub.
