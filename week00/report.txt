@@ -1,0 +1,1 @@
+Pada week 0, mahasiswa diarahkan untuk dapat membuat Google Account dan Akun GitHub serta diarahkan pula untuk dapat menggunakan putty untuk mengakses server Badak.
