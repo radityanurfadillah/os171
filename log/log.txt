@@ -2,3 +2,6 @@ w01-170216-20-PS-About : Task 1, Week 1
 w01-170216-20-PS-About : Task 1, Week 1
 w01-170216-21-PS-About : Task 1, Week 1
 w01-170216-21-PS-About : Special Task, Week 1
+w02-170222-13-PS-About : Task 2, Week 2
+w02-170222-13-PS-About : Task 2, Week 2
+w02-170222-14-PS-About : Task 2, Week 2
