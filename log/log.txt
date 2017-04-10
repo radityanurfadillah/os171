@@ -14,4 +14,5 @@ w04-170311-03-PS-About : Task 4, Week 4
 w04-170311-03-PS-About : Task 4, Week 4
 w05-170318-13-PS-About : Task 5, Week 5
 w05-170318-13-PS-About : Task 5, Week 5
-
+w06-170410-13-PS-About : Task 6, Week 6
+w06-170410-13-PS-About : Task 6, Week 6
