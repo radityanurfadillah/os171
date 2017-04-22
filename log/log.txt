@@ -16,3 +16,5 @@ w05-170318-13-PS-About : Task 5, Week 5
 w05-170318-13-PS-About : Task 5, Week 5
 w06-170410-13-PS-About : Task 6, Week 6
 w06-170410-13-PS-About : Task 6, Week 6
+w07-170422-14-PS-About : Task 7, Week 7
+w07-170422-14-PS-About : Task 7, Week 7
