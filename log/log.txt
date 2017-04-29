@@ -18,3 +18,5 @@ w06-170410-13-PS-About : Task 6, Week 6
 w06-170410-13-PS-About : Task 6, Week 6
 w07-170422-14-PS-About : Task 7, Week 7
 w07-170422-14-PS-About : Task 7, Week 7
+w08-170428-16-PS-About : Task 8, Week 8 (Lab 2602 with 3 student)
+w08-170429-21-PS-About : Task 8, Week 8 (Finish lab08.txt)
